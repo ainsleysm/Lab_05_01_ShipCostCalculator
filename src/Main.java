@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        double price = 90.05;
+        double price = 100.05;
 
         if (price >= 100) {
             System.out.println("Shipping cost is: $0.00");
